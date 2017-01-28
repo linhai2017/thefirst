@@ -1,3 +1,6 @@
+/platforms
+/plugins
+
 # Logs
 logs
 *.log
