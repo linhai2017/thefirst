@@ -1,5 +1,5 @@
 print = function () {
-  alert("haha");
+  alert("ohoh");
 }
 
 setTimeout(print, 2000);
